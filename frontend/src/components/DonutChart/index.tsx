@@ -24,11 +24,6 @@ function DonutChart() {
             });
     }, []);
 
-    //const mockData = {
-    // series: [477138, 499928, 444867, 220426, 473088],
-    // labels: ['Juliana Adrade', 'Márcio Neto', 'Adriana Silva', 'Bernardo Lucas','Matheus Santiago']
-    //  }
-
     const options = {
         legend: {
             show: true
