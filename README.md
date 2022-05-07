@@ -6,7 +6,7 @@ https://vendas-sds3.netlify.app/
 
 Vendas-sds3 é uma aplicação full stack web feita durante na 3ª edição da **Semana DevSuperior** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação corresponde à uma apresentação de informações de vendas dos funcionários, possuindo sobre um gráfico que apresenta a taxa de sucesso de vendas de cada vendedor e além disso, a aplicação possui outro gráfico que representa a porgentagem que cada um foi responsavel pelo total de vendas da empresa, por fim há uma listagem das informações dos vendedores.
+A aplicação corresponde à uma apresentação de informações de vendas dos funcionários, possuindo sobre um gráfico que apresenta a taxa de sucesso de vendas de cada vendedor e além disso, a aplicação possui outro gráfico que representa a porcentagem que cada um foi responsavel pelo total de vendas da empresa, por fim há uma listagem das informações dos vendedores.
 
 ## Layout web
 ![foto-front-web-alisson-fernandes-home](https://user-images.githubusercontent.com/65856244/166606118-d0e8b8c7-ec14-48f1-b8bd-6919acc2c56e.png)
